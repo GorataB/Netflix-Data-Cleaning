@@ -10,4 +10,4 @@ The main goal of this project is to set up the environment, install the required
 I used Google Colab for this project and Jupyter as the IDE. The packages used were pandas and numpy. 
 
 ### Additional
-Further information, including the data is available on the notebook.
+Further information, including the data is available on the [notebook](Netflix_Data_Cleaning_DSP_Gorata_Malose.ipynb).
